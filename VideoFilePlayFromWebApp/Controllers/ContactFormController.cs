@@ -47,5 +47,10 @@ namespace VideoFilePlayFromWebApp.Controllers
 
                 return View();
         }
+
+        public ActionResult ContactGrid()
+        {
+            return View();
+        }
     }
 }

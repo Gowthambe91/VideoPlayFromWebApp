@@ -225,6 +225,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\LocalVideos\Index.cshtml" />
     <Content Include="Views\ContactForm\Index.cshtml" />
+    <Content Include="Views\ContactForm\ContactGrid.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
